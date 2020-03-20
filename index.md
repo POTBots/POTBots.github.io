@@ -1,9 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "POTBots
-Pictures Of The Bottom"
-excerpt: " <br> <br>"
+title: "POTBots"
+excerpt: "Pictures Of The Bottom"
 image:
   feature: 20150613_074.jpg
 ---
