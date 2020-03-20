@@ -1,30 +1,22 @@
 # Site navigation links
 
-- title: "Research"
-  url: research
-  excerpt: "Current and past research projects"
+- title: "Background"
+  url: background
+  excerpt: "Background"
   image: 5x8_BRUV.jpg
-- title: "Researchers"
-  url: researchers
-  excerpt: "Current research staff"
+- title: "About"
+  url: about
+  excerpt: "About"
   image: 5x8_Moorea.jpg
-- title: "Students"
-  url: students
-  excerpt: "Current PhD candidates and postgraduate students"
+- title: "Projects"
+  url: projects
+  excerpt: "Projects"
   image: 5x8_Jon.png
-- title: "Alumni"
-  url: alumni
-  excerpt: "Past members"
+- title: "Team"
+  url: team
+  excerpt: "Team"
   image: 5x8_Julia.png
-- title: "Adjuncts"
-  url: adjuncts
-  excerpt: "Current Adjuncts"
+- title: "Contact us"
+  url: contact
+  excerpt: "Get in touch"
   image: 5x8_Todd.jpg
-- title: "Join Us"
-  url: available-projects
-  excerpt: "Available projects"
-  image: 5x8_shark.png
-#- title: "Contact"
-#  url: contact
-#  excerpt: "Get in touch"
-#  image: 5x8_Damsel.jpg
