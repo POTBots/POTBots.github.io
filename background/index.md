@@ -2,7 +2,7 @@
 layout: home
 permalink: background
 title: "Background"
-excerpt: " <br> <br>"
+excerpt: " "
 image:
   feature: potbot_banner.png
 ---
