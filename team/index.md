@@ -2,7 +2,7 @@
 layout: home
 permalink: team
 title: "Team"
-excerpt: " <br> <br>"
+excerpt: ""
 image:
   feature: potbot_banner.png
 ---
