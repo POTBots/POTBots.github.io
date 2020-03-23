@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: about
-title: "About"
+permalink: design
+title: "Design"
 excerpt: " "
 image:
   feature: potbot_banner.png
