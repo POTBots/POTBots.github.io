@@ -2,9 +2,9 @@
 layout: home
 permalink: contact
 title: "Get in touch"
-excerpt: " <br> <br>"
+excerpt: " "
 image:
-  feature: banner.jpg
+  feature: potbot_banner.png
 ---
 <div class="tiles">
 <div class="tile">
