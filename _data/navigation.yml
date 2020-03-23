@@ -3,20 +3,20 @@
 - title: "Background"
   url: background
   excerpt: "Background"
-  image: 5x8_BRUV.jpg
+  image: 01_5x8.jpg
 - title: "About"
   url: about
   excerpt: "About"
-  image: 5x8_Moorea.jpg
+  image: 02_5x8.jpg
 - title: "Projects"
   url: projects
   excerpt: "Projects"
-  image: 5x8_Jon.png
+  image: 03_5x8.jpg
 - title: "Team"
   url: team
   excerpt: "Team"
-  image: 5x8_Julia.png
+  image: 04_5x8.jpg
 - title: "Contact us"
   url: contact
   excerpt: "Get in touch"
-  image: 5x8_Todd.jpg
+  image: 05_5x8.jpg
