@@ -4,9 +4,9 @@
   url: background
   excerpt: "Background"
   image: 01_5x8.jpg
-- title: "About"
-  url: about
-  excerpt: "About"
+- title: "Design"
+  url: designs
+  excerpt: "Design"
   image: 02_5x8.jpg
 - title: "Projects"
   url: projects
