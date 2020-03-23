@@ -2,7 +2,7 @@
 layout: home
 permalink: about
 title: "About"
-excerpt: " <br> <br>"
+excerpt: " "
 image:
   feature: potbot_banner.png
 ---
